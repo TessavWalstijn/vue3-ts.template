@@ -1,5 +1,8 @@
 # vue3-ts.template
 Template for Vue3, TS, ESLint + Prettier 
+
+> NOTE: This project is fully ESM
+
 ## Setup
 
 ### VSCode
@@ -19,10 +22,11 @@ nvm install lts/hydrogen
 nvm use lts/hydrogen
 ```
 
-Make sure you have yarn v1 installed globally
+Make sure you have the modern yarn installed
 
 ```bash
-npm i -g yarn
+corepack enable
+yarn set version 4.0.2
 ```
 
 Installing packageges used by this project:

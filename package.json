@@ -5,8 +5,8 @@
   "repository": "git@github.com:TessavWalstijn/vue3-ts.template.git",
   "author": "TessavWalstijn <email@TessavWalstijn.com>",
   "license": "GPL-3.0",
-  "private": false,
   "type": "module",
+  "packageManager": "yarn@4.0.2",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc && vite build",
