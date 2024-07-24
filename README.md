@@ -1,5 +1,6 @@
 # vue3-ts.template
-Template for Vue3, TS, ESLint + Prettier 
+
+Template for Vue3, TS, ESLint + Prettier
 
 > NOTE: This project is fully ESM
 
