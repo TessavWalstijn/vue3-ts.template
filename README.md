@@ -23,11 +23,10 @@ nvm install lts/hydrogen
 nvm use lts/hydrogen
 ```
 
-Make sure you have the modern yarn installed
+Make sure you have the modern yarn enabled
 
 ```bash
 corepack enable
-yarn set version 4.0.2
 ```
 
 Installing packageges used by this project:
